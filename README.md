@@ -1,2 +1,2 @@
-# career-website
-A career website created using Flask framework
+# CAREER-HUB
+A career finding website created using Flask framework
